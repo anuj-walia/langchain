@@ -1,0 +1,11 @@
+conf
+venv
+tmp
+./*test*
+LangchainTools.ipynb
+LLMChains.ipynb
+Prompt_Templates.ipynb
+ReAct_Agent.ipynb
+test.ipynb
+
+
